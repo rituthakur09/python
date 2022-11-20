@@ -1,0 +1,4 @@
+num1=int(input("ENTER THE NUMBER:"))
+num2=int(input("ENTER THE NUMBER:"))
+ADD= num1+num2
+print("THE ADDITION OF TWO NOS. IS",ADD)
